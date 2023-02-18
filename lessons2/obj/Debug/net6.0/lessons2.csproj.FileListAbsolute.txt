@@ -1,0 +1,15 @@
+D:\Git\семинар17.02.2023\lessons2\bin\Debug\net6.0\lessons2.exe
+D:\Git\семинар17.02.2023\lessons2\bin\Debug\net6.0\lessons2.deps.json
+D:\Git\семинар17.02.2023\lessons2\bin\Debug\net6.0\lessons2.runtimeconfig.json
+D:\Git\семинар17.02.2023\lessons2\bin\Debug\net6.0\lessons2.dll
+D:\Git\семинар17.02.2023\lessons2\bin\Debug\net6.0\lessons2.pdb
+D:\Git\семинар17.02.2023\lessons2\obj\Debug\net6.0\lessons2.csproj.AssemblyReference.cache
+D:\Git\семинар17.02.2023\lessons2\obj\Debug\net6.0\lessons2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\семинар17.02.2023\lessons2\obj\Debug\net6.0\lessons2.AssemblyInfoInputs.cache
+D:\Git\семинар17.02.2023\lessons2\obj\Debug\net6.0\lessons2.AssemblyInfo.cs
+D:\Git\семинар17.02.2023\lessons2\obj\Debug\net6.0\lessons2.csproj.CoreCompileInputs.cache
+D:\Git\семинар17.02.2023\lessons2\obj\Debug\net6.0\lessons2.dll
+D:\Git\семинар17.02.2023\lessons2\obj\Debug\net6.0\refint\lessons2.dll
+D:\Git\семинар17.02.2023\lessons2\obj\Debug\net6.0\lessons2.pdb
+D:\Git\семинар17.02.2023\lessons2\obj\Debug\net6.0\lessons2.genruntimeconfig.cache
+D:\Git\семинар17.02.2023\lessons2\obj\Debug\net6.0\ref\lessons2.dll
