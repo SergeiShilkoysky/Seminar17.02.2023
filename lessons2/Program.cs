@@ -2,7 +2,6 @@
 // показывает диапазон возможных координат точек в этой четверти (x и y).
 
 /*Console.Clear();
-
 Console.WriteLine("Введем номер четверти:");
 int Chetv = int.Parse(Console.ReadLine());
 
@@ -20,7 +19,6 @@ else
 
 
 Console.Clear();
-
 Console.WriteLine("Введем номер четверти:");
 int Chetv = int.Parse(Console.ReadLine());
 switch (Chetv)
