@@ -19,7 +19,6 @@ else
 */
 
 
-
 Console.Clear();
 
 Console.WriteLine("Введем номер четверти:");
