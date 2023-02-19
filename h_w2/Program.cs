@@ -27,9 +27,9 @@ double xb = 2;
 double yb = 1;
 double zb = -7;
 
-double S = ((xa - xb) * (xa - xb) + (ya - yb) * (ya - yb) + (za - zb) * (za - zb));
-S = Math.Sqrt(S);
-Console.WriteLine(S);
+double dist = Math.Sqrt((xa - xb) * (xa - xb) + (ya - yb) * (ya - yb) + (za - zb) * (za - zb));
+dist = Math.Round (dist, 2, MidpointRounding.ToEven);
+Console.WriteLine(dist);
 
 
 
