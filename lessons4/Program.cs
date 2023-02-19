@@ -18,7 +18,6 @@ PrintSqr(num);
 */
 
 
-
 void WriteConsolePowTableN (int value)
 {
     for (int i = 1; i <= value; i++)
