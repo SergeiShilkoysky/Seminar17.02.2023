@@ -1,0 +1,15 @@
+D:\Git\семинар17.02.2023\h_w3\obj\Debug\net6.0\h_w3.csproj.AssemblyReference.cache
+D:\Git\семинар17.02.2023\h_w3\obj\Debug\net6.0\h_w3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\семинар17.02.2023\h_w3\obj\Debug\net6.0\h_w3.AssemblyInfoInputs.cache
+D:\Git\семинар17.02.2023\h_w3\obj\Debug\net6.0\h_w3.AssemblyInfo.cs
+D:\Git\семинар17.02.2023\h_w3\obj\Debug\net6.0\h_w3.csproj.CoreCompileInputs.cache
+D:\Git\семинар17.02.2023\h_w3\bin\Debug\net6.0\h_w3.exe
+D:\Git\семинар17.02.2023\h_w3\bin\Debug\net6.0\h_w3.deps.json
+D:\Git\семинар17.02.2023\h_w3\bin\Debug\net6.0\h_w3.runtimeconfig.json
+D:\Git\семинар17.02.2023\h_w3\bin\Debug\net6.0\h_w3.dll
+D:\Git\семинар17.02.2023\h_w3\bin\Debug\net6.0\h_w3.pdb
+D:\Git\семинар17.02.2023\h_w3\obj\Debug\net6.0\h_w3.dll
+D:\Git\семинар17.02.2023\h_w3\obj\Debug\net6.0\refint\h_w3.dll
+D:\Git\семинар17.02.2023\h_w3\obj\Debug\net6.0\h_w3.pdb
+D:\Git\семинар17.02.2023\h_w3\obj\Debug\net6.0\h_w3.genruntimeconfig.cache
+D:\Git\семинар17.02.2023\h_w3\obj\Debug\net6.0\ref\h_w3.dll
