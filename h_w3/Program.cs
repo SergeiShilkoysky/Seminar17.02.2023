@@ -12,4 +12,6 @@ void WritePowTableN (int N)
     Console.WriteLine("");
 }
 Console.Clear();
-WritePowTableN(5);
+Console.Write("Введите число N: ");
+int N = Convert.ToInt32(Console.ReadLine());
+WritePowTableN(N);
