@@ -18,6 +18,7 @@ else
 */
 
 
+
 Console.Clear();
 Console.WriteLine("Введем номер четверти:");
 int Chetv = int.Parse(Console.ReadLine());
