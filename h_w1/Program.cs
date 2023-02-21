@@ -45,19 +45,20 @@ int count = array.Length;
 
 
 Console.Clear();
-Console.Write("Введите число: ");
+Console.Write("для проверки на ПОЛИНДРОМНОСТЬ введите ЧИСЛОВУЮ либо БУКВЕННУЮ последовательность: ");
 string array = Console.ReadLine();
-int d = 0;
-for ( int i = 0; i < array.length(); i++)
+int count = array.Length;
+int n = 0;
+for (int i = 0; i < count / 2; i++)
 {
-    if (array[i] == array.length() - 1 - i)
-       {
-        d++;
-       }
+    if (array[i] == array[count - 1 - i])  // с каждым увелич. i на 1 сдвигаемся с последнего элемента влево
+    {
+        n++; // буду считать к-во совпадений
+    }
 }
-if (d == array.length())
+if (n == count / 2)
 {
-    Console.WriteLine($"это полиндром");
+    Console.WriteLine($"ЭТО ПОЛИНДРОМ !!!");
 }
 else
-    Console.WriteLine($"{array} - не является полиндромом");
+    Console.WriteLine($"{array} - НЕ является полиндромом");
